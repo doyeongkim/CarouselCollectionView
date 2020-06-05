@@ -1,0 +1,20 @@
+PODS:
+  - ScalingCarousel (3.0.1)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - ScalingCarousel
+  - SnapKit (~> 5.0.0)
+
+SPEC REPOS:
+  trunk:
+    - ScalingCarousel
+    - SnapKit
+
+SPEC CHECKSUMS:
+  ScalingCarousel: da1046447c9ac2d4a0db3f778fdda81cae16de4f
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: b7ab1f70c5c58021cb0992f60c6cadf8eab211a2
+
+COCOAPODS: 1.8.4
